@@ -1,0 +1,42 @@
+[
+  {
+    "email": "a@a.com",
+    "timestamp": "Tue Nov 29 2022 10:31:45",
+    "message": "Hola!"
+  },
+  {
+    "email": "b@b.com",
+    "timestamp": "Tue Nov 29 2022 10:33:21",
+    "message": "Holis!"
+  },
+  {
+    "email": "c@c.com",
+    "timestamp": "Tue Nov 29 2022 10:37:02",
+    "message": "Holaaa"
+  },
+  {
+    "email": "asd@asd.com",
+    "timestamp": "Tue Nov 29 2022 10:38:18",
+    "message": "123"
+  },
+  {
+    "email": "zxc@zxc.com",
+    "timestamp": "Tue Nov 29 2022 10:38:51",
+    "message": "1231231"
+  },
+  {
+    "email": "abc@abc.com",
+    "timestamp": "Tue Nov 29 2022 12:10:15",
+    "message": "Como va?"
+  },
+  {
+    "email": "ppp@ppp.com",
+    "timestamp": "Tue Nov 29 2022 12:10:20",
+    "message": "Todo bien amigo"
+  },
+  {
+    "email": "ppp@ppp.com",
+    "timestamp": "Tue Nov 29 2022 12:10:22",
+    "message": "Vos?"
+  }
+]
